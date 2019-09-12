@@ -1,0 +1,36 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.comment-wrap {
+    width: 90%;
+    margin: 10px auto;
+}
+.comment-name{
+    margin-bottom: 10px;
+}
+.comment-content span{
+    vertical-align: middle;
+}
+.comment-content textarea{
+    vertical-align: middle;
+}
+.comment-list{
+
+}
+.comment-input-button{
+    position: relative;
+}
+.comment-input-button button{
+    outline: none;
+    color: #fff;
+    background-color: lightskyblue;
+    border: none;
+    width: 80px;
+    height: 30px;
+    border-radius: 5px;
+    position: absolute;
+    right: 50%;
+}
